@@ -46,7 +46,7 @@ Total deals: 544
 	- [✨ Other AI tools (39)](#-other-ai-tools)
 - [🌅 Design Tools (38)](#-design-tools)
 - [🌈 Marketing Tools (43)](#-marketing-tools)
-- [🔍 SEO Tools (15)](#-seo-tools)
+- [🔍 SEO Tools (17)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (26)](#-startup-saastools)
 - [🌏 Social Media Tools (28)](#-social-media-tools)
 - [💸  Tools (15)](#--tools)
@@ -615,6 +615,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🔥 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout! (Nov 21–Dec 7) |
 | 🔍  | [CheckMySEO](https://checkmyseo.io) | Generate SEO‑optimized content and blog posts tailored to your keywords in minutes. | **30% OFF** with code **BF25** |
 | 📈  | [AI Search Analytics](https://getairefs.com/) | The Google Search Console for AI Search. Track AI Search Impressions and Share of Voice across hundreds of prompts, without breaking the bank. | **50% OFF** with code **BFAI50** |
+| 🔗 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | All-in-one link building software for SEO & AI Search that automates domain prospecting, qualification, email outreach, reply management, and live backlink monitoring. | **72% OFF** on all 3-month plans with code **BFCM72**|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
